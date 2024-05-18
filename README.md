@@ -70,7 +70,7 @@ This project is a complex endeavor that requires the collaborative efforts of Re
 👥 Collaborators:
 <div style="display: flex; justify-content: space-between;">
 
-  <img src="https://github.com/jayasuryard31/AyurScan/assets/92865629/c7fc0b88-4888-4e34-a692-f0833fe04028" width="110" height="120">
+  <img src="https://github.com/jayasuryard31/AyurScan/assets/92865629/c7fc0b88-4888-4e34-a692-f0833fe04028" width="120" height="120">
   <img src="https://github.com/hemantharya14.png" width="120" height="120" style="border-radius: 50;">
   <img src="https://poonambugade.github.io/MyPortfolio/images/11.jpg" width="120" height="120">
   <img src="https://github.com/jayasuryard31/AyurScan/assets/92865629/3e3e7bce-e11a-4772-b44b-f742685ccc22" width="120" height="120">
