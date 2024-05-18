@@ -1,4 +1,4 @@
-# 🌿 Ayurvedic-Medicinal-Plants-Identification-Application - ALVA'S
+# 🌿 AyurScan - ALVA'S
 |   |
 |:-:|
 | <div style="text-align: center; width: 60px; height: 60px; overflow: hidden;"><img src="https://yt3.googleusercontent.com/ytc/APkrFKZV__KKOMeDSV37Fp2rCpWV76V76jAkO-1lIG0cjQ=s900-c-k-c0x00ffffff-no-rj" width="90" height="100"></div> |
