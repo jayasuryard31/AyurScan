@@ -42,7 +42,7 @@ To get started with this project, follow these steps:
 4. Use the following command to clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/Ayurvedic-Medicinal-Plants-Identification-Application.git
+   git clone https://github.com/jayasuryard31/AyurScan.git
 5. Replace yourusername with your GitHub username.
 
 ## Make Changes and Commit
