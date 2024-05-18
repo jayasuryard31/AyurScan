@@ -73,5 +73,5 @@ This project is a complex endeavor that requires the collaborative efforts of Re
   <img src="https://github.com/jayasuryard31/Ayurvedic-Medicinal-Plants-Identification-Application---ALVA-S/assets/92865629/60ce1e76-da0a-4f4e-900b-badcddd18a83" width="110" height="120">
   <img src="https://github.com/hemantharya14.png" width="120" height="120" style="border-radius: 50;">
   <img src="https://poonambugade.github.io/MyPortfolio/images/11.jpg" width="120" height="120">
-  <img src="https://scontent.fixe3-1.fna.fbcdn.net/v/t39.30808-6/345593437_931945744754125_2992084552686643767_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=iT5X01bZbyMAX94nRp_&_nc_ht=scontent.fixe3-1.fna&oh=00_AfCQF_whU7is9eODpZeA3iClj6TD4ZvrxpNq2umzl4QAEQ&oe=653753C3" width="120" height="120">
+  <img src="https://github.com/jayasuryard31/AyurScan/assets/92865629/3e3e7bce-e11a-4772-b44b-f742685ccc22" width="120" height="120">
 </div>
