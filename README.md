@@ -50,7 +50,7 @@ To get started with this project, follow these steps:
 Navigate to the project's directory:
 
 ```bash
-cd Ayurvedic-Medicinal-Plants-Identification-Application
+cd AyurScan
 git add .
 git commit -m "Add feature XYZ"  # Replace with an appropriate commit message
 git push origin main  # If you are working on a different branch, replace 'main' with the name of your branch
